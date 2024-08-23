@@ -1,0 +1,22 @@
+.receipt {
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #ddd;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+.receipt h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.receipt-details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.receipt-details div {
+  flex: 1;
+  text-align: center;
+}
