@@ -1,8 +1,8 @@
 # myPascoConnect
 
-## Description
+myPascoConnect is a user-friendly web application designed to simplify expense tracking. Whether you are managing personal finances or organizing expenses for a small group.
 
-myPascoConnect is a user-friendly web application designed to simplify expense tracking. Whether you are managing personal finances or organizing expenses for a small group, myPascoConnect provides a clean and intuitive interface for recording, categorizing, and reviewing your expenses. With seamless navigation and detailed reporting features, this application ensures that you stay on top of your financial health effortlessly.
+myPascoConnect provides a clean and intuitive interface for recording, categorizing, and reviewing your expenses. With seamless navigation and detailed reporting features, this application ensures that you stay on top of your financial health effortlessly.
 
 ## Features
 
@@ -20,11 +20,14 @@ myPascoConnect is a user-friendly web application designed to simplify expense t
 
 ## Author
 
-**Nancy Hood**  
-Email: nancy567hood@outlook.com
-Website: myPascoConnect
-*Master in Full Stack Development*  
-Nancy is a seasoned software engineer with over a decade of experience in building scalable web applications. She specializes in React and Node.js and is passionate about creating tools that improve daily life. Nancy is known for her collaborative spirit and dedication to open-source contributions.
+- **Name**: Nancy Hood  
+- **Email**: nancy567hood@outlook.com
+- **Website**: myPascoConnect
+
+- Nancy Hood Master in Full Stack Development.  
+- Nancy is a seasoned software engineer with over a decade of experience in building scalable web applications.
+- Nancy Hood specializes in React and Node.js and is passionate about creating tools that improve daily life.
+- Nancy is known for her collaborative spirit and dedication to open-source contributions.
 
 ## Getting Started
 
