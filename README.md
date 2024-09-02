@@ -35,7 +35,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/yourusername/myPascoConnect.git
+    git clone https://github.com/nancy567a/myPascoConnect.git
     ```
 
 2. **Navigate to the Project Directory:**
